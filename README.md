@@ -9,7 +9,7 @@ This repository includes utilities for setting up Cloud Pak for Integration.
 
 It is required to have the following CLIs already installed in your environment. 
 
-* [OpenShift CLI](https://cloud.ibm.com/docs/openshift?topic=openshift-openshift-cli)
+* [OpenShift CLI]
 * [CloudCtl CLI](https://www.ibm.com/support/knowledgecenter/en/SSBS6K_3.2.1/manage_cluster/install_cli.html)
 * [Helm CLI](https://www.ibm.com/support/knowledgecenter/en/SSBS6K_3.2.1/app_center/create_helm_cli.html)
 
